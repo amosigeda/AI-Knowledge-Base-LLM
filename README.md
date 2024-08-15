@@ -2,7 +2,7 @@
 
 # Quickly Create Professional AI Applications
 
-欢迎试用
+Try it now
 http://101.126.22.66:3000/login
 
 ## Introduction
