@@ -2,7 +2,8 @@
 
 # Quickly Create Professional AI Applications
 
-![AI Application](https://via.placeholder.com/800x400.png?text=AI+Application)
+欢迎试用
+http://101.126.22.66:3000/login
 
 ## Introduction
 
@@ -91,7 +92,8 @@ You can train the AI with specific content using the provided documentation. Ple
 
 # 快速创建拥有专业能力的 AI 应用
 
-![AI应用](https://via.placeholder.com/800x400.png?text=AI+Application)
+欢迎试用
+http://101.126.22.66:3000/login
 
 ## 简介
 
