@@ -8,6 +8,7 @@ http://101.126.22.66:3000/login
 ## Introduction
 
 This project is designed to help you quickly create professional AI applications. You can control the responses of the AI and integrate it into any system. By training the AI, it can better understand your knowledge, helping you build your own exclusive knowledge base. Additionally, this project supports on-premise deployment to ensure the security of your data.
+It provides out-of-the-box data processing, model calling, RAG retrieval, visual AI workflow orchestration and other capabilities to help you easily build complex AI applications and train enterprise knowledge bases. Training personal knowledge bases
 
 ## Features
 
@@ -85,7 +86,7 @@ You can train the AI with specific content using the provided documentation. Ple
 
 ## Contact Information
 
-- **Email**: 85988233@qq.com
+- **Email**: zhenzhikeji988233@outlook.com
 - **WeChat**: w85988233
 
 
@@ -98,6 +99,7 @@ http://101.126.22.66:3000/login
 ## 简介
 
 本项目旨在帮助您快速创建一个拥有专业能力的 AI 应用，支持控制 AI 的回答内容，并能接入到任何系统中。通过训练 AI，让它更懂您的知识，构建属于您的专属知识库。此外，本项目支持私有化部署，确保您的数据安全。
+提供了开箱即用的数据处理、模型调用、RAG 检索、可视化 AI 工作流编排等能力，帮助您轻松构建复杂的 AI 应用,企业知识库的训练。个人知识库的训练
 
 ## 特性
 
@@ -176,5 +178,5 @@ http://101.126.22.66:3000/login
 
 ## 联系方式
 
-- **邮箱**: 85988233@qq.com
+- **邮箱**: zhenzhikeji988233@outlook.com
 - **微信**: w85988233
